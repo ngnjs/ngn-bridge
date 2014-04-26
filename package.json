@@ -1,0 +1,31 @@
+{
+  "name": "ngn-bridge",
+  "version": "0.0.0",
+  "description": "Bridge NGN logging with mobile devices and desktops.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodengn/ngn-bridge.git"
+  },
+  "keywords": [
+    "NGN",
+    "bridge",
+    "logging",
+    "log"
+  ],
+  "author": "Corey Butler <corey@nodengn.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/nodengn/ngn-bridge/issues"
+  },
+  "homepage": "https://github.com/nodengn/ngn-dev-bridge",
+  "dependencies": {
+    "primus": "2.2.0",
+    "ws": "0.4.31",
+    "polo": "0.5.6",
+    "uglify-js": "2.4.13"
+  }
+}

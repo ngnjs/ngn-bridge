@@ -27,5 +27,8 @@
     "ws": "0.4.31",
     "polo": "0.5.6",
     "uglify-js": "2.4.13"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
   }
 }
